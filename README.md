@@ -14,7 +14,7 @@ This data pipeline if fully implemented with Python3 scripts running over AWS La
 
 ### Description
 
-The purpose of this test is evaluate your programming skills and engineering vision, it shouldn't take more than **1-2 hours** to solve this test, so we understand non top quality code ;)
+As we said, the purpose of this test is evaluate your technical skills, so we have raised a simple ETL problem which shouldn't take more than **1-2 hours** to solve this test, so we understand non top quality code ;)
 
 You have to develop first two steps of the pipeline **fully automated** in a single Python3 script, using necessary libraries like `json` or `requests`.
 
